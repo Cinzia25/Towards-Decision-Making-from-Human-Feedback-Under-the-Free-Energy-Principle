@@ -47,9 +47,15 @@ If you use this repository, please cite the associated work:
 
 **Towards Decision-Making from Human Feedback Under the Free Energy Principle**
 
-## Authors
+## Authors of the manuscript
 
 - M. Paula Diaz Monfort  
 - Cinzia Tomaselli  
 - Michael Richardson  
 - Giovanni Russo
+
+## Authors of the code
+
+- M. Paula Diaz Monfort  
+- Cinzia Tomaselli  
+
